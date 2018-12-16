@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+## 项目负责人
+peppa && retriever
 
-You can use the [editor on GitHub](https://github.com/tianlmn/peppa/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## 技术选型和原型
+前端:react
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ssr:nodejs
+后端:java
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 分工
+peppa:
+负责网站视觉原型的设计，前端框架构建，前端代码编写，包括但不限于react前端业务逻辑、sass样式代码、webpack编译打包前端代码，前端代码的性能调优。
 
-```markdown
-Syntax highlighted code block
+retriever:
+负责前后端技术选型，代码仓库和包仓库的搭建，后端代码编写和调优，前后端代码联调，流程和代码规范，后端的seo、消息队列、缓存、容器，项目的进度把控和网站运维。
 
-# Header 1
-## Header 2
-### Header 3
+## 时间表
+2018.12.16~2019.1.6 网站前端视觉、技术选型、各类开发工具最终确定，前后端框架搭建，代码仓库建立，项目模块拆分，prd完成。(__2__ 个周末)
+1.7~2.17 本地开发完成，各个模块基本能够运行。(__4__ 个周末)
+2.18~3.17 前后端联调，代码调优，整个项目可以在本地运行。(__4__ 个周末)
+3.18~4.1 代码部署到服务器，可以生产运行。(__2__ 个周末)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## 各类开发工具(retriever)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## 视觉和交互(peppa)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## 技术选型(retriever)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tianlmn/peppa/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## 代码仓库(retriever)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+## 产品prd(peppa && retriever)
+
+
+
+
+
+
+
+
+
+
+
