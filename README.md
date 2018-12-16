@@ -34,7 +34,7 @@ retriever:
 ## 技术选型(retriever)
 
 
-## 代码仓库(retriever)
+## 代码仓库和各类url地址维护(retriever)
 
 
 ## 产品prd(peppa && retriever)
